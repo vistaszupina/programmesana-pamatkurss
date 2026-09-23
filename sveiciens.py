@@ -1,1 +1,1 @@
-print("Mans pirmais commit!") 
+print("man garso vistas zupa") 
