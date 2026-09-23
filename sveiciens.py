@@ -1,1 +1,1 @@
-print("Mans pirmais commit!") ubghugv
+print("Mans pirmais commit!") 
